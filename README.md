@@ -1,5 +1,5 @@
 # Machine Learning Assignments
-This repository is created to public my group machine learning assignments for the course of Machine Learning at University of Goettingen.
+This repository is created to public my group machine learning assignments for the course of Machine Learning to help students get familiar with machine learning course offered in 2023 at University of Goettingen.
 
 ## First Assignment
 This assignment is regarding the custom implementation of linear regression and comparing it with scikitlearn implementation. Next step is to do regularization with ridge regression.
